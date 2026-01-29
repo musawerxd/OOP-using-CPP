@@ -23,3 +23,4 @@ It includes both **example programs** from the book and **solutions to exercises
 - Chapter 18 – File Handling
 
 > This repository is a work-in-progress. More programs and solutions will be added gradually as I continue refining my implementations.
+Made with chai☕ and curiosity
