@@ -13,9 +13,9 @@ int main()
 		}
 		else if (num > n2)
 			n2 = num;
-		cout << "Enter a Number (0 to Exit):  ";
+		cout << "Enter a Number (0 to Exit) :  ";
 		cin >> num;
 	} while (num != 0);
-	cout << "\nSecond Largest Number is:  " << n2;
+	cout << "\nSecond Largest Number is :  " << n2;
 	return 0;
 }
