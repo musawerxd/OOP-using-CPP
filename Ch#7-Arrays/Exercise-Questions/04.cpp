@@ -1,4 +1,5 @@
 #include <iostream>
+#include <conio.h>
 #include <iomanip>
 using namespace std;
 int main()
@@ -10,7 +11,7 @@ int main()
 		cin.clear();
 		cin.sync();
 		cout << "Enter the Name of an Employee: ";
-		gets(name[i]);
+		cin.getline(name[i], 30);
 		cout << "Enter the Salary: ";
 		cin >> sal[i];
 	}
